@@ -23,6 +23,26 @@ label {
     margin: 5px;
 }
 
+#p1 {
+    color: rgb(43, 20, 255);
+}
+
+#b1 {
+    background-color: rgb(177, 175, 103);
+    font-family: Georgia, 'Times New Roman', Times, serif";
+
+}
+
+#ul1 {
+    text-align: center;
+    color: rgb(202, 14, 23);
+}
+
+p.error {
+    border: 5px solid rgb(1, 1, 8);
+    color: red;
+}
+
 .cities {
     background-color: black;
     color: white;
